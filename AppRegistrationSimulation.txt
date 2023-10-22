@@ -1,0 +1,4 @@
+"AadClientId": "9fd6e305-59fa-4eb9-a753-ad78649b222e",
+"AadSecret": "_h98Q~r9hQyqn4prghsnO2Ke8yljz5YzP0-gpbNy",
+"AadTenantDomain": "submarineduck.onmicrosoft.com",
+"AadTenantId": "3e23fe8f-2384-4d65-aa14-90689f5de2e2",
