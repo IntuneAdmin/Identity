@@ -1,5 +1,5 @@
 # Simulating Risk Detections
-Leaked Credentials for Workload Identities
+Leaked Credentials for Workload Identities and Users
 
 # Simulate Leaked Credentials in GitHub for Workload Identities
 
